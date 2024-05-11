@@ -1,0 +1,13 @@
+.kpug{
+    background-color: #0000ff;
+}
+.super{
+    background-color: red;
+    width: 50%;
+    height: 100px;
+    margin: 10pz;
+}
+.sup{
+    background-color: blue;
+    width: 400px;
+}
